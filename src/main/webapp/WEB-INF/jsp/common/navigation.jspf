@@ -1,0 +1,13 @@
+<nav class="navbar navbar-expand-sm bg-danger navbar-dark">
+	<ul class="navbar-nav">
+		<li class="nav-item active"><a class="nav-link" href="/">Todo
+				App</a></li>
+		<li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+		<li class="nav-item"><a class="nav-link" href="/todo-list">Todos</a>
+		</li>
+	</ul>
+	<ul class="navbar-nav navbar-right ml-auto">
+		<li class="nav-item"><a class="nav-link" href="/logout">Logout</a>
+		</li>
+	</ul>
+</nav>
